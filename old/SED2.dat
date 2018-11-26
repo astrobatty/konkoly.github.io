@@ -1,0 +1,24 @@
+## SED data for RR Lyrae star SDSSJ015450+001501 
+## SDSS: ugriz, 2MASS: JHK, WISE: W1, W2.
+## The table lists 2MASS and WISE magnitudes on AB scale. The following 
+## Vega-to-AB magnitude offsets (mAB=mVega+offset) were used: 
+## 0.89, 1.37, 1.84 in JHK, and 2.6, 3.3 in W1 and W2.
+## Effective bandpass wavelengths are listed in microns.
+## mag(min) and mag(max) are NOT corrected for ISM dust extinction.
+## Plausible extinction corrections are listed in the last column and are 
+## derived using the SFD value for the r-band extinction quoted by SDSS for 
+## this star: Ar = 0.099, and coefficients listed in the first row of Table 1
+## from Berry et al. (2012, ApJ 757, 166) for the ugrizJHK bands. For the 
+## WISE bands, the coefficients taken from Yuan, Liu & Xiang 2013, MNRAS 430,
+## 2188 (AW1/Ar = 0.084, AW2/Ar = 0.074).  
+# band  lambda_eff  mag(min) err  mag(max)  err   amplitude   mag(phi=0.5) extinction
+   u     0.3540      16.96   0.02  15.72   0.02     1.24         16.70        0.179
+   g     0.4760      15.78   0.01  14.51   0.01     1.27         15.52        0.139
+   r     0.6280      15.50   0.01  14.58   0.01     0.92         15.24        0.099 
+   i     0.7690      15.38   0.01  14.66   0.01     0.72         15.14        0.075
+   z     0.9250      15.35   0.02  14.69   0.02     0.66         15.10        0.056
+   J      1.25       15.42   0.01  14.95   0.01     0.47         15.18        0.031 
+   H      1.65       15.62   0.01  15.28   0.01     0.34         15.36        0.020 
+   K      2.17       16.04   0.01  15.72   0.01     0.32         15.79        0.013 
+  W1      3.4        16.80   0.05  16.46   0.05     0.34         16.56        0.008
+  W2      4.5        17.50   0.10  17.20   0.10     0.30         17.24        0.007

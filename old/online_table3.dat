@@ -1,0 +1,120 @@
+#
+# V1154 Cygni O-C data 
+#
+# HJD-2400000   E  O-C [d] weight Filter  Reference/Instrument
+#
+
+14862.215   -8140  -0.3154   0      PG    this paper (Harvard) 
+15675.172   -7975  -0.0584   0      PG    this paper (Harvard) 
+16492.860   -7809   0.0043   0      PG    this paper (Harvard) 
+17389.283   -7627  -0.0053   0      PG    this paper (Harvard) 
+18438.092   -7414  -0.3180   0      PG    this paper (Harvard) 
+19019.512   -7296  -0.1016   0      PG    this paper (Harvard) 
+19610.502   -7176  -0.1661   0      PG    this paper (Harvard) 
+20004.739   -7096   0.0348   0      PG    this paper (Harvard) 
+20546.568   -6986   0.0636   0      PG    this paper (Harvard) 
+21314.835   -6830  -0.0402   0      PG    this paper (Harvard) 
+21930.574   -6705   0.0171   0      PG    this paper (Harvard) 
+22846.575   -6519  -0.1164   0      PG    this paper (Harvard) 
+24285.075   -6227   0.1511   0      PG    this paper (Harvard) 
+25570.458   -5966  -0.0094   0      PG    this paper (Harvard) 
+26195.936   -5839  -0.0641   0      PG    this paper (Harvard) 
+26831.272   -5710  -0.1117   0      PG    this paper (Harvard) 
+27392.846   -5596  -0.0394   0      PG    this paper (Harvard) 
+28077.314   -5457  -0.2095   0      PG    this paper (Harvard) 
+29200.455   -5229  -0.0720   0      PG    this paper (Harvard) 
+29978.558   -5071  -0.1908   0      PG    this paper (Harvard) 
+30599.364   -4945   0.0080   0      PG    this paper (Harvard) 
+30904.942   -4883   0.2079   0      PG    this paper (SAI) 
+31308.478   -4801  -0.1433   0      PG    this paper (Harvard) 
+32451.086   -4569  -0.2407   0      PG    this paper (Harvard) 
+34160.359   -4222  -0.1002   0      PG    this paper (SAI) 
+35372.107   -3976  -0.0139   0      PG    this paper (SAI) 
+39346.865   -3169  -0.0973   0      PG    this paper (SAI) 
+39815.027   -3074   0.1470   0      PG    this paper (SAI) 
+40652.173   -2904  -0.0346   0      PG    this paper (SAI)  
+40962.4929  -2841  -0.0188   3      V	  Wachmann (1976)
+41494.5033  -2733   0.0426   3      V	  Szabados (1977)	     
+42248.069   -2580   0.0143   0      VIS   this paper (AAVSO)
+45700.791   -1879  -0.0069   1      B	  this paper (Harvard) 
+46291.8422  -1759  -0.0107   3      V	  Berdnikov (2008)	     
+47262.0930  -1582  -0.0739   1      B	  this paper (Harvard)
+47424.7177  -1529   0.0104   3      V	  Berdnikov (2008)
+47754.6743  -1462  -0.0385   3      V	  Berdnikov (2008)
+48109.3123  -1390  -0.0331   2      Hp    Hipparcos (ESA 1997)
+48631.4062  -1284  -0.0374   2      Hp    Hipparcos (ESA 1997)
+48798.9161  -1250   0.0071   3      V	  Arellano Ferro et al. (1998)
+48877.7087  -1234  -0.0076   3      V	  Berdnikov (2008)	     
+49995.8374  -1007   0.0431   3      V	  Berdnikov (2008)	     
+50325.7890   -940  -0.0107   3      V	  Berdnikov (2008)	     
+50636.1472   -877   0.0439   3      V	  Berdnikov (2008)	     
+50838.0320   -836  -0.0150   3      V	  Ignatova & Vozyakova (2000)		
+51005.5616   -802   0.0492   3      V	  Berdnikov (2008)
+52458.444    -507  -0.0768   0      VIS   this paper (AAVSO)	     
+52635.7963   -471  -0.0414   1      V	  Integral OMC  
+52670.347    -464   0.0317   0      VIS   this paper (AAVSO) 
+54000.140    -194  -0.0479   0      V	  Pigulski et al. (2009)  
+54280.909    -137  -0.0298   0      V	  Pigulski et al. (2009)	    
+54709.447     -50  -0.0060   0      V	  this paper (AAVSO)
+54955.7450      0   0.0185   5      Kp    Kepler		 
+54960.6690      1   0.0170   5      Kp    Kepler		 
+54965.5787      2   0.0014   5      Kp    Kepler		 
+54970.5094      3   0.0066   5      Kp    Kepler		 
+54975.4341      4   0.0059   5      Kp    Kepler		 
+54980.3588      5   0.0051   5      Kp    Kepler		
+54985.2889      6   0.0098   5      Kp    Kepler		 
+54990.1961      7  -0.0086   5      Kp    Kepler		     
+54995.1262      8  -0.0039   5      Kp    Kepler		     
+55004.9876     10   0.0066   5      Kp    Kepler		 
+55009.9069     11   0.0004   5      Kp    Kepler		 
+55019.7453     13  -0.0121   5      Kp    Kepler		 
+55024.6807     14  -0.0021   5      Kp    Kepler		 
+55029.5999     15  -0.0084   5      Kp    Kepler		 
+55034.5190     16  -0.0148   5      Kp    Kepler		 
+55039.4437     17  -0.0156   5      Kp    Kepler		 
+55044.3790     18  -0.0058   5      Kp    Kepler		 
+55049.3077     19  -0.0025   5      Kp    Kepler		
+55054.2334     20  -0.0023   5      Kp    Kepler		 
+55059.1471     21  -0.0139   5      Kp    Kepler		 
+55068.9961     23  -0.0159   5      Kp    Kepler		 
+55073.9397     24   0.0023   5      Kp    Kepler			
+55078.8716     25   0.0088   5      Kp    Kepler			
+55083.7802     26  -0.0081   5      Kp    Kepler
+55093.6366     28  -0.0026   5      Kp    Kepler
+55098.5779     29   0.0133   5      Kp    Kepler
+55103.4830     30  -0.0071   5      Kp    Kepler
+55108.4224     31   0.0069   5      Kp    Kepler
+55113.3455     32   0.0045   5      Kp    Kepler
+55118.2710     33   0.0046   5      Kp    Kepler
+55123.1928     34   0.0009   5      Kp    Kepler
+55128.1183     35   0.0009   5      Kp    Kepler
+55133.0493     36   0.0065   5      Kp    Kepler
+55137.9681     37  -0.0002   5      Kp    Kepler
+55142.8899     38  -0.0038   5      Kp    Kepler
+55147.8166     39  -0.0026   5      Kp    Kepler
+55152.7463     40   0.0016   5      Kp    Kepler
+55157.6652     41  -0.0050   5      Kp    Kepler
+55162.5924     42  -0.0032   5      Kp    Kepler
+55167.5125     43  -0.0086   5      Kp    Kepler
+55167.5682     43   0.0477   3      V	  this paper (Henden)
+55172.4518     44   0.0053   5      Kp    Kepler
+55177.3707     45  -0.0013   5      Kp    Kepler
+55182.2891     46  -0.0083   5      Kp    Kepler
+55187.2096     47  -0.0133   5      Kp    Kepler
+55192.1448     48  -0.0036   5      Kp    Kepler
+55197.0733     49  -0.0005   5      Kp    Kepler
+55201.9989     50  -0.0003   5      Kp    Kepler
+55206.9233     51  -0.0014   5      Kp    Kepler
+55211.8477     52  -0.0025   5      Kp    Kepler
+55221.6953     54  -0.0058   5      Kp    Kepler
+55226.6263     55  -0.0002   5      Kp    Kepler
+55236.4741     57  -0.0033   5      Kp    Kepler
+55241.4094     58   0.0065   5      Kp    Kepler
+55246.3393     59   0.0110   5      Kp    Kepler
+55251.2585     60   0.0047   5      Kp    Kepler
+55256.1830     61   0.0038   5      Kp    Kepler
+55261.1184     62   0.0137   5      Kp    Kepler
+55266.0406     63   0.0104   5      Kp    Kepler
+55270.9622     64   0.0066   5      Kp    Kepler
+55330.0547     76  -0.0063   3      V	  this paper (Tenagra)
+55339.9056     78  -0.0063   3      V	  this paper (Lulin)
